@@ -81,10 +81,6 @@ html {
     background-color: #df2a2a;
   }
   
-  tbody tr {
-    background-image: url(noise.png);
-  }
-  
   table {
     background-color: #ff0000;
   }
